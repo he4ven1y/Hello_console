@@ -1,0 +1,15 @@
+D:\C#\Hello_Console\bin\Debug\net7.0\Hello_Console.exe
+D:\C#\Hello_Console\bin\Debug\net7.0\Hello_Console.deps.json
+D:\C#\Hello_Console\bin\Debug\net7.0\Hello_Console.runtimeconfig.json
+D:\C#\Hello_Console\bin\Debug\net7.0\Hello_Console.dll
+D:\C#\Hello_Console\bin\Debug\net7.0\Hello_Console.pdb
+D:\C#\Hello_Console\obj\Debug\net7.0\Hello_Console.csproj.AssemblyReference.cache
+D:\C#\Hello_Console\obj\Debug\net7.0\Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Hello_Console\obj\Debug\net7.0\Hello_Console.AssemblyInfoInputs.cache
+D:\C#\Hello_Console\obj\Debug\net7.0\Hello_Console.AssemblyInfo.cs
+D:\C#\Hello_Console\obj\Debug\net7.0\Hello_Console.csproj.CoreCompileInputs.cache
+D:\C#\Hello_Console\obj\Debug\net7.0\Hello_Console.dll
+D:\C#\Hello_Console\obj\Debug\net7.0\refint\Hello_Console.dll
+D:\C#\Hello_Console\obj\Debug\net7.0\Hello_Console.pdb
+D:\C#\Hello_Console\obj\Debug\net7.0\Hello_Console.genruntimeconfig.cache
+D:\C#\Hello_Console\obj\Debug\net7.0\ref\Hello_Console.dll
